@@ -1,0 +1,14 @@
+D:\CTPL_WF\Jenkins\Test\Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\CTPL_WF\Jenkins\Test\Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\CTPL_WF\Jenkins\Test\Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\CTPL_WF\Jenkins\Test\Test\bin\Debug\netcoreapp2.2\Test.deps.json
+D:\CTPL_WF\Jenkins\Test\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.json
+D:\CTPL_WF\Jenkins\Test\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.dev.json
+D:\CTPL_WF\Jenkins\Test\Test\bin\Debug\netcoreapp2.2\Test.dll
+D:\CTPL_WF\Jenkins\Test\Test\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+D:\CTPL_WF\Jenkins\Test\Test\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+D:\CTPL_WF\Jenkins\Test\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+D:\CTPL_WF\Jenkins\Test\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+D:\CTPL_WF\Jenkins\Test\Test\bin\Debug\netcoreapp2.2\Test.pdb
+D:\CTPL_WF\Jenkins\Test\Test\obj\Debug\netcoreapp2.2\Test.dll
+D:\CTPL_WF\Jenkins\Test\Test\obj\Debug\netcoreapp2.2\Test.pdb
